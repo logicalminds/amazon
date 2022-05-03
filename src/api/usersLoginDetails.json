@@ -1,0 +1,54 @@
+{
+	"usersLoginDetails": [
+		{
+			"isLoggedIn": false,
+			"credential": "Sincere@april.biz",
+			"password": "Bret@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Shanna@melissa.tv",
+			"password": "Shanna@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Nathan@yesenia.net",
+			"password": "Nathan@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Julianne.OConner@kory.org",
+			"password": "Julianne@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Lucio_Hettinger@annie.ca",
+			"password": "Lucio_Hettinger@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Karley_Dach@jasper.info",
+			"password": "Karley_Dach@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Telly.Hoeger@billy.biz",
+			"password": "Telly@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Sherwood@rosamond.me",
+			"password": "Sherwood@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Chaim_McDermott@dana.io",
+			"password": "Chaim_McDermott@123"
+		},
+		{
+			"isLoggedIn": false,
+			"credential": "Rey.Padberg@karina.biz",
+			"password": "Moriah@123"
+		}
+	]
+}

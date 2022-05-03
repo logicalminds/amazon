@@ -1,0 +1,177 @@
+.signin-container {
+	background-color: white;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
+
+.signin-text {
+	font-weight: 400;
+}
+
+.signin-section {
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	padding: 20px 30px 10px;
+	width: 350px;
+}
+
+.signin-user-account-not-found {
+	line-height: 1.5;
+	font-size: 13px;
+}
+
+.fa-exclamation-triangle {
+	font-size: 25px;
+	color: #c53500;
+}
+
+.signin-inputs {
+	display: flex;
+	flex-direction: column;
+}
+
+.signin-email-text {
+	font-weight: 700;
+	font-size: 13px;
+	position: relative;
+}
+
+.signin-forgot-userCredential {
+	color: rgb(9, 93, 177);
+	cursor: pointer;
+	font-weight: 400;
+	position: absolute;
+	right: 0;
+}
+
+.signin-email-success {
+	border: 1px solid rgb(158, 156, 156);
+	outline: 0;
+	border-radius: 2px;
+	height: 30px;
+	margin: 3px 0;
+}
+
+.signin-email-error {
+	border: 1px solid red;
+	outline: 0;
+	border-radius: 2px;
+	height: 30px;
+	margin: 3px 0;
+	box-shadow: inset 0 0 5px 1px #f8bfbf;
+}
+
+.signin-email-success:focus {
+	box-shadow: 0 0 1px 3px #f4d587;
+	border-radius: 2px;
+}
+
+.login-validation-text {
+	color: red;
+	font-size: 12px;
+}
+
+.signin-continue {
+	margin: 0 0 15px;
+	background: linear-gradient(#f4d587, #f0bf45);
+	border: 1px solid rgb(148, 144, 144);
+	border-radius: 2px;
+	height: 30px;
+	outline: 0;
+	font-size: 13px;
+}
+
+.signin-continue:active {
+	box-shadow: 0 0 1px 3px #f4d587, inset 0 0 3px rgba(0, 0, 0, 0.418);
+}
+
+.signin-keep-signed-wrapper {
+	display: flex;
+	align-items: center;
+	margin-bottom: 0;
+}
+
+.signin-keep-signed-details {
+	color: rgb(9, 93, 177);
+	cursor: pointer;
+	font-size: 13px;
+	margin-left: 2px;
+	margin-bottom: 0;
+}
+
+.signin-keep-signed-details:hover {
+	color: #ad6d18;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.signin-keep-signed {
+	font-size: 13px;
+	margin-left: 5px;
+	margin-bottom: 0;
+}
+
+.login-caret-down {
+	font-size: 11px;
+	color: rgb(82, 75, 75);
+	padding: 0 10px 0 0;
+	margin-left: 10px;
+}
+
+.need-help {
+	font-size: 13px;
+}
+
+.need-help-password {
+	font-size: 13px;
+	margin: 3px 0 0 17px;
+}
+
+.new-to-amazon-section {
+	position: relative;
+	margin-top: 30px;
+}
+
+.new-to-amazon {
+	position: absolute;
+	top: -10px;
+	left: 35%;
+	background: white;
+	padding: 0 10px;
+	font-size: 12px;
+	color: grey;
+}
+
+.new-to-amazon-or {
+	position: absolute;
+	top: -10px;
+	left: 48%;
+	background: white;
+	padding: 0 10px;
+	font-size: 12px;
+	color: grey;
+}
+
+.signin-create-account {
+	border: 1px solid #b4b2b2;
+	background: linear-gradient(rgb(245, 245, 245), rgb(235, 235, 235));
+	border-radius: 2px;
+	padding: 4px;
+	outline: 0;
+	font-size: 13px;
+	width: 100%;
+}
+
+.signin-conditions {
+	box-shadow: 0 6px 10px -11px grey;
+	padding: 0 200px 20px;
+}
+
+.signin-dataCharges {
+	font-size: 12px;
+	margin: 10px 0;
+	color: grey;
+}

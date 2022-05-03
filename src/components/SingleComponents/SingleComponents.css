@@ -1,0 +1,15 @@
+.btn-component {
+	background-color: #ffd814;
+}
+
+.btn-component:hover {
+	background-color: #ebc91f;
+}
+
+.oneLineText-component {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	text-overflow: ellipsis;
+	-webkit-line-clamp: 1;
+}

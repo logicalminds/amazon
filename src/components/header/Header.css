@@ -1,0 +1,177 @@
+.topSection-nav {
+	background-color: #131921;
+	color: white;
+	padding: 5px 0;
+}
+
+.navbar-brand {
+	height: 50px;
+	object-fit: contain;
+	flex: 1;
+}
+
+.nav-contents {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	padding: 0 15px;
+}
+
+.header-address-section {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.address-wrapper {
+	margin: 0 5px;
+}
+
+.navbar-items {
+	color: white;
+	border: 1px solid transparent;
+	padding: 5px 0;
+}
+
+.navbar-items:hover {
+	color: white;
+	border: 1px solid white;
+	padding: 5px 0;
+	border-radius: 3px;
+}
+
+.address-section {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+}
+
+.search-wrapper {
+	align-items: center;
+	outline: 0;
+	border: 0;
+	display: flex;
+	margin: 0 10px;
+	position: relative;
+	flex: 1;
+}
+
+.header-search {
+	width: 100%;
+	outline: 0;
+	border: 0;
+	height: 35px;
+	border-radius: 3px;
+	overflow: hidden;
+	color: #000;
+}
+
+.header-search:focus {
+	box-shadow: 0 0 1px 3px #f4d587;
+}
+
+.header-search-button {
+	background-color: #fcbd69;
+	height: 35px;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	position: absolute;
+	right: 0;
+}
+
+.fa-search {
+	font-size: 20px;
+}
+
+.fa-shopping-cart {
+	font-size: 25px;
+}
+
+.fa-language {
+	font-size: 35px;
+	margin: 0 10px;
+}
+
+.user-section-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.user-accounts {
+	padding: 0 10px;
+}
+
+.hello,
+.returns {
+	font-size: 12px;
+	margin: 0;
+}
+
+.hello,
+.header-address {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+}
+
+.hello {
+	max-width: 20ch;
+}
+
+.hello-address {
+	max-width: 25ch;
+}
+
+.header-address {
+	max-width: 20ch;
+}
+
+.accounts,
+.orders,
+.header-address {
+	font-weight: 600;
+	font-size: 14px;
+	margin: 0;
+}
+.accountsAndList-wrapper {
+	line-height: normal;
+}
+
+.header-caret-down {
+	margin-left: 5px;
+	font-size: 13px;
+	color: rgb(189, 178, 178);
+}
+
+.nav-user {
+	display: flex;
+	flex-direction: column;
+}
+
+.returns-wrapper {
+	margin: 0 10px;
+}
+
+.cart {
+	position: relative;
+	margin: 0 10px;
+}
+
+.header-cart-counter {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 0;
+	right: -4px;
+	z-index: 999;
+	border-radius: 100%;
+	background-color: red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 13px;
+	font-weight: 300;
+	margin: 0;
+}

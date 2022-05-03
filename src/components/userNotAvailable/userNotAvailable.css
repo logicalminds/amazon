@@ -1,0 +1,17 @@
+.signin-user-not-found {
+	border: 1px solid #c53500;
+	margin-bottom: 15px;
+	border-radius: 3px;
+	padding: 10px 20px 0;
+	max-width: 350px;
+}
+
+.signin-user-not-found-text-wrapper {
+	margin: 15px 0 0 20px;
+	line-height: 0;
+}
+
+.signin-user-not-found-problem {
+	color: #c53500;
+	font-size: 17px;
+}

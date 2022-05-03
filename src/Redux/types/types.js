@@ -1,0 +1,9 @@
+export const GET_DATAS = 'GET_DATAS';
+export const USER_CREDENTIALS = 'USER_CREDENTIALS';
+export const USER_PASSWORD = 'USER_PASSWORD';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const ADD_TO_CART_DATA = 'ADD_TO_CART_DATA';
+export const ADD_QUANTITY = 'ADD_QUANTITY';
+export const REMOVE_ALL_CART_ITEMS = 'REMOVE_ALL_CART_ITEMS';
+export const DELETE_CART_ITEM = 'DELETE_CART_ITEM';
+export const SEARCH_DATAS = 'SEARCH_DATAS';

@@ -1,0 +1,16 @@
+.signin-amazon-logo {
+	width: 110px;
+	height: 35px;
+	margin-bottom: 10px;
+}
+
+.signin-userCredential {
+	margin-top: 15px;
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+
+.signin-change-userCredential {
+	color: rgb(9, 93, 177);
+	cursor: pointer;
+}

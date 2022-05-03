@@ -1,0 +1,22 @@
+.profile-page {
+	display: flex;
+	flex-direction: column;
+	margin: 50px 200px;
+	padding: 50px 100px;
+	color: white;
+	font-weight: 500;
+	background-color: #0044ffd8;
+	border-radius: 10px;
+}
+
+.profile-head {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.profile-btn {
+	color: rgb(53, 50, 50);
+	font-size: 20px;
+	margin-top: 50px;
+}

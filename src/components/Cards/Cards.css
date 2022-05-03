@@ -1,0 +1,88 @@
+.product-cards {
+	margin: -20% 20px 0 20px;
+	overflow: hidden;
+}
+
+.card-text {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-line-clamp: 1;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	color: #303030;
+}
+
+:link {
+	text-decoration: none;
+}
+
+.product-link {
+	width: 50%;
+}
+
+.innerCard {
+	border: 0;
+	width: 100%;
+	margin: 0 2px;
+}
+
+.imgInCard {
+	display: flex;
+	width: 100%;
+	overflow: hidden;
+}
+
+.product-img-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.demo-img {
+	overflow: hidden;
+	width: 6em;
+	height: 6em;
+	object-fit: contain;
+}
+
+.home-card {
+	border-radius: 0;
+	padding: 20px;
+	border: 0;
+	margin-bottom: 20px;
+}
+
+.home-card-title {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	text-overflow: ellipsis;
+	-webkit-line-clamp: 1;
+	color: black;
+	font-weight: 700;
+	margin-bottom: 15px;
+}
+
+.product-details {
+	padding: 0;
+	padding-bottom: 20px;
+}
+
+.product-name {
+	font-size: 13px;
+	-webkit-line-clamp: 1;
+	margin: 0;
+}
+
+.horiz-card {
+	padding: 20px 40px;
+	border: 0;
+}
+
+.product-price {
+	font-size: 13px;
+}
+
+.allDeals {
+	font-size: 13px;
+	color: #1e7185;
+}

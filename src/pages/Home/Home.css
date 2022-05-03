@@ -1,0 +1,19 @@
+.home-container {
+	background-color: #eaeded;
+}
+
+.home-head {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.home-img {
+	width: 100%;
+	height: auto;
+}
+
+.home-text {
+	font-size: 20px;
+	margin-top: 50px;
+}
